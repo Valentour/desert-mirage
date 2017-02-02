@@ -1,0 +1,145 @@
+This is a sample of the python console output.
+
+----Desert Mirage Begin----
+
+Arguments:  ['D:\\desert-mirage\\py\\desert_mirage_main.py', 'D:\\desert-mirage\\py\\desert_mirage_config.json']
+json file path: D:\desert-mirage\py\desert_mirage_config.json
+Sensor ID List:  ['s2', 's3', '01', '02', '03']
+Processing files: ['S1GSV0125.csv', 'S2GSV0125.csv', 'S3GSV0125.csv'] 
+
+File: S1GSV0125.csv
+Test_Item_IDs active: ['IVS_Seed02', 'IVS_Seed05', 'IVS_Seed08', 'IVS_Seed11']
+Identified towed array line data.
+DataFrame head:
+           Line           X            Y     Ch1     Ch2    Ch3     Ch4
+0  Livs0125a_01 287585.9500 2476410.3800 -0.0400  0.0200 0.2000 -0.1200
+1  Livs0125a_01 287585.9500 2476410.3800  0.1400  0.1100 0.1900 -0.0300
+2  Livs0125a_01 287585.9500 2476410.3800  0.3300  0.0300 0.1100 -0.0400
+3  Livs0125a_01 287585.9500 2476410.3800  0.2300 -0.0800 0.0100  0.0800
+4  Livs0125a_01 287585.9500 2476410.3800  0.2200  0.0200 0.0100 -0.1100
+
+Processing IVS_Seed02 in ['Livs0125a_01', 'Livs0125p_01']
+Processing IVS_Seed05 in ['Livs0125a_01', 'Livs0125p_01']
+Processing IVS_Seed08 in ['Livs0125a_01', 'Livs0125p_01']
+Processing IVS_Seed11 in ['Livs0125a_01', 'Livs0125p_01']
+Writing table: IVS_daily_results_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+Writing table: Seed&Test_Item_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+Writing table: IVS_StandardValues_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+Processed SensorID: 01
+
+Test_Item_IDs active: ['IVS_Seed01', 'IVS_Seed03', 'IVS_Seed04', 'IVS_Seed05', 'IVS_Seed06', 'IVS_Seed07', 'IVS_Seed09', 'IVS_Seed10', 'IVS_Seed12']
+Identified towed array line data.
+DataFrame head:
+              Line           X            Y    Ch1    Ch2    Ch3     Ch4
+2518  Livs0125a_02 287585.1300 2476409.9900 0.5100 0.0400 0.3900 -0.0700
+2519  Livs0125a_02 287585.1300 2476409.9900 0.5900 0.0500 0.2900 -0.0700
+2520  Livs0125a_02 287585.1300 2476409.9900 0.9400 0.0300 0.2100  0.0000
+2521  Livs0125a_02 287585.1300 2476409.9900 0.7600 0.2100 0.0500 -0.0800
+2522  Livs0125a_02 287585.1300 2476409.9900 0.6900 0.3900 0.0300 -0.0700
+
+Processing IVS_Seed01 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed03 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed04 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed05 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed06 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed07 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed09 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed10 in ['Livs0125a_02', 'Livs0125p_02']
+Processing IVS_Seed12 in ['Livs0125a_02', 'Livs0125p_02']
+Writing table: IVS_daily_results_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: Seed&Test_Item_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: IVS_StandardValues_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Processed SensorID: 02
+
+Test_Item_IDs active: ['IVS_Seed01', 'IVS_Seed03', 'IVS_Seed04', 'IVS_Seed06', 'IVS_Seed07', 'IVS_Seed09', 'IVS_Seed10', 'IVS_Seed12']
+Identified towed array line data.
+DataFrame head:
+              Line           X            Y     Ch1     Ch2     Ch3     Ch4
+5036  Livs0125a_03 287585.4800 2476411.1600 -0.1400 -0.0700  0.2600 -0.1500
+5037  Livs0125a_03 287585.4800 2476411.1600  0.0600 -0.1500  0.1800 -0.0600
+5038  Livs0125a_03 287585.4800 2476411.1600  0.1500 -0.2500  0.1000 -0.1600
+5039  Livs0125a_03 287585.4700 2476411.1600 -0.0400 -0.0800 -0.0900 -0.0600
+5040  Livs0125a_03 287585.4700 2476411.1600 -0.1300  0.2100  0.0100 -0.0700
+
+Processing IVS_Seed01 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed03 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed04 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed06 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed07 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed09 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed10 in ['Livs0125a_03', 'Livs0125p_03']
+Processing IVS_Seed12 in ['Livs0125a_03', 'Livs0125p_03']
+Writing table: IVS_daily_results_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: Seed&Test_Item_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: IVS_StandardValues_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Processed SensorID: 03
+
+File: S2GSV0125.csv
+Test_Item_IDs active: ['IVS_Seed02', 'IVS_Seed05', 'IVS_Seed08', 'IVS_Seed11']
+Identified single coil line data.
+DataFrame head:
+          Line           X            Y      Ch1      Ch2     Ch3     Ch4
+0  Livs0125s2a 287583.8100 2476410.8800 -64.2900 -20.4300 -4.8900 -0.2300
+1  Livs0125s2a 287583.8000 2476410.8800 -64.0600 -20.8300 -4.9100 -0.1500
+2  Livs0125s2a 287583.7900 2476410.8800 -63.7500 -21.0700 -4.9100 -0.1500
+3  Livs0125s2a 287583.7900 2476410.8800 -64.0100 -21.0000 -4.9100 -0.1600
+4  Livs0125s2a 287583.7800 2476410.8800 -63.7000 -21.1700 -4.9100 -0.1500
+
+Processing IVS_Seed02 in ['Livs0125s2a', 'Livs0125s2p']
+Processing IVS_Seed05 in ['Livs0125s2a', 'Livs0125s2p']
+Processing IVS_Seed08 in ['Livs0125s2a', 'Livs0125s2p']
+Processing IVS_Seed11 in ['Livs0125s2a', 'Livs0125s2p']
+Writing table: IVS_daily_results_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: Seed&Test_Item_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: IVS_StandardValues_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Processed SensorID: s2
+
+File: S3GSV0125.csv
+Test_Item_IDs active: ['IVS_Seed02', 'IVS_Seed05', 'IVS_Seed08', 'IVS_Seed11']
+Identified single coil line data.
+DataFrame head:
+          Line           X            Y     Ch1     Ch2     Ch3     Ch4
+0  Livs0125s3a 287583.5400 2476410.8900 -0.6000 -0.2100 -0.2000 -0.1900
+1  Livs0125s3a 287583.5400 2476410.8900 -0.6100 -0.3200 -0.1900  0.0000
+2  Livs0125s3a 287583.5400 2476410.8900 -0.6200 -0.4000 -0.3000 -0.0800
+3  Livs0125s3a 287583.5400 2476410.8900 -0.6100 -0.4000 -0.3000 -0.1700
+4  Livs0125s3a 287583.5400 2476410.8900 -0.6200 -0.4000 -0.3000 -0.0900
+
+Processing IVS_Seed02 in ['Livs0125s3a', 'Livs0125s3p']
+Processing IVS_Seed05 in ['Livs0125s3a', 'Livs0125s3p']
+Processing IVS_Seed08 in ['Livs0125s3a', 'Livs0125s3p']
+Processing IVS_Seed11 in ['Livs0125s3a', 'Livs0125s3p']
+Writing table: IVS_daily_results_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: Seed&Test_Item_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Writing table: IVS_StandardValues_Table.csv
+    Directory: D:\desert-mirage\AccessTables
+    An existing table was appended with unique entries only.
+Processed SensorID: s3
+
+
+----Desert Mirage End----

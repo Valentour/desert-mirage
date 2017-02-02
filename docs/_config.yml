@@ -1,0 +1,15 @@
+title: "Desert Mirage"
+description: "Desert Mirage is an open-source Python data processing module for geophysical system verification."
+
+footer-links:
+  email: "nicholas.valentour@gmail.com"
+  github: "/valentour"
+  rss: "desert-mirage"
+
+google_analytics: UA-77462914-3
+url: https://valentour.github.io/desert-mirage/
+show_downloads: true
+theme: jekyll-theme-tactile
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap

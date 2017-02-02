@@ -1,0 +1,13 @@
+Location,Test_Item_ID,Description,SeedType,Blind,TrueX,TrueX_nose,TrueX_tail,TrueY,TrueY_nose,TrueY_tail,Depth,Orientation,Inclination,Comment,Placement
+IVS,IVS_Seed01,Small ISO,IVS,No,287587.068,,,2476411.489,,,0.1524,,,,Vertical
+IVS,IVS_Seed02,Small ISO,IVS,No,287587.071,,,2476410.887,,,0.1524,,,,Vertical
+IVS,IVS_Seed03,Small ISO,IVS,No,287587.075,,,2476410.288,,,0.1524,,,,Vertical
+IVS,IVS_Seed04,Small ISO,IVS,No,287590.178,,,2476411.48,,,0.1524,,,,Vertical
+IVS,IVS_Seed05,Small ISO,IVS,No,287593.104,,,2476410.768,,,0.1524,,,,Vertical
+IVS,IVS_Seed06,Small ISO,IVS,No,287596.179,,,2476410.129,,,0.1524,,,,Vertical
+IVS,IVS_Seed07,Small ISO,IVS,No,287599.297,,,2476411.366,,,0.1524,,,,Inline
+IVS,IVS_Seed08,Small ISO,IVS,No,287602.215,,,2476410.791,,,0.1524,,,,Inline
+IVS,IVS_Seed09,Small ISO,IVS,No,287605.335,,,2476410.145,,,0.1524,,,,Inline
+IVS,IVS_Seed10,Small ISO,IVS,No,287608.276,,,2476411.371,,,0.1524,,,,Crossline
+IVS,IVS_Seed11,Small ISO,IVS,No,287611.328,,,2476410.766,,,0.1524,,,,Crossline
+IVS,IVS_Seed12,Small ISO,IVS,No,287614.37,,,2476410.165,,,0.1524,,,,Crossline
